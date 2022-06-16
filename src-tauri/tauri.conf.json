@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "tauri-app",
+    "productName": "game-of-life",
     "version": "0.1.0"
   },
   "tauri": {
@@ -29,7 +29,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "dev.vone.tauri-app",
+      "identifier": "dev.vone.game-of-life",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
